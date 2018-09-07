@@ -40,7 +40,7 @@ void lefteye(){
 void mouth(){
   stroke(0, 0, 0);
   fill(4,4,4);
-  arc(200, 300, 320, 250, 0, PI, CHORD);
+  arc(200, 300, 320, 250, 0, PI);
   fill(242,120,130);
   ellipse(220, 400, 150, 100);
 }
