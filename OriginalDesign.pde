@@ -44,6 +44,7 @@ void mouth(){
   fill(242,120,130);
   ellipse(220, 400, 150, 100);
 }
+
 void nose(){
   fill(242,133,0); //Nose
   ellipse(190, 270, 150, 100);
